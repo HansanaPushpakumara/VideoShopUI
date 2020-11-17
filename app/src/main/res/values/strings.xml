@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">VideoShop</string>
+
+    <string name="form_title">Client Information</string>
+    <string name="age_label">Age Group</string>
+    <string name="interest_label">Movie Interests</string>
+
+    <string name="input_name">Name</string>
+    <string name="input_dob">Date of Birth</string>
+    <string name="input_address">Address</string>
+    <string name="input_nic">NIC Number</string>
+
+    <string name="checkbox_1">Action</string>
+    <string name="checkbox_2">Comedy</string>
+    <string name="checkbox_3">Drama</string>
+    <string name="checkbox_4">Fantasy</string>
+    <string name="checkbox_5">Horor</string>
+    <string name="checkbox_6">Science Fiction</string>
+
+    <string name="submit_btn">Submit</string>
+
+    <string-array name="age_groups">
+        <item>10 - 17</item>
+        <item>18 - 40</item>
+        <item>41 - 60</item>
+        <item>60 - 100</item>
+    </string-array>
+
+</resources>
